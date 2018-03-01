@@ -19,7 +19,7 @@ Second Hope, we have three modules –
 3)Doctor Module –
     o   Doctors will give approval to surrogate after verifying and checking all details from the application form and all the health             related reports, which were submitted during the application. 
 
-Database: SurrogacyDB
+Database: SurrogacyDB,
 Application Folder: Surrogacy
 
 Config Changes:
